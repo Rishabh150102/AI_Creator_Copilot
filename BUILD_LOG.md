@@ -22,7 +22,7 @@
 
 ### AI-Assisted Development
 - Used ChatGPT for backend architecture guidance
-- Used AI assistance to debug API structure and improve development speed
+- Used AI-assisted workflows for debugging, backend structuring, and rapid iteration
 
 ---
 
@@ -34,7 +34,7 @@
 - Create a complete creator workflow
 
 ### Completed
-- Generated modern AI SaaS frontend UI
+- Built a modern AI SaaS-style frontend UI for the MVP workflow
 - Integrated frontend with FastAPI backend
 - Connected workflow:
   - Niche input
@@ -65,6 +65,11 @@ Used Codex for:
 - Prioritized workflow clarity over feature quantity
 - Focused on shipping a stable MVP instead of overengineering
 - Kept the application single-page and demo-friendly
+- Focused on solving one clear creator workflow problem instead of building multiple disconnected AI features
+
+### Learnings
+- Learned how prompt quality directly affects frontend rendering and UX
+- Understood the importance of workflow-focused MVP development during hackathons
 
 ### Current MVP Flow
 1. Enter niche/topic

@@ -10,16 +10,16 @@ The platform helps creators move from niche/topic selection to ready-to-record v
 
 ## Main Workflow UI
 
-[assets/1.png](Add your main homepage screenshot here)
+![Add your main homepage screenshot here](assets/1.png)
 
 ## Video Ideas & Hooks & Titles Generation
 
-[assets/3.png](Add ideas generation & hooks & titles screenshot here)
+![Add ideas generation & hooks & titles screenshot here](assets/3.png)
 
 
 ## Script Generation
 
-[assets/4.png](Add final script screenshot here)
+![Add final script screenshot here](assets/4.png)
 
 ---
 
